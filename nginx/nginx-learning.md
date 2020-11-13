@@ -1,6 +1,6 @@
 # Nginx 学习笔记
 
-思维导图整理 ![](images/nginx-learing1113.png)
+思维导图整理 ![](https://github.com/liujiee/notebook/blob/main/nginx/images/nginx-learing1113.png)
 
 
 ### Serving Static Content
